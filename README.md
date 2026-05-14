@@ -47,12 +47,6 @@ php artisan serve
 
 Buka `http://127.0.0.1:8000` — akan diarahkan ke daftar surat.
 
-## Pengumpulan (UTS)
-
-1. Buat repositori GitHub kosong.
-2. Push proyek ini ke GitHub.
-3. Kirim tautan repositori sesuai instruksi dosen.
-
 ## Ringkas fitur
 
 - **Create / Read / Update / Delete** untuk entri surat (`surats`).
